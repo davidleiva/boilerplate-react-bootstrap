@@ -1,8 +1,8 @@
-import LandingPage from './pages/Marketing/LandingPage';
+import PricingPage from './pages/PricingPage';
 
 function App() {
   return (
-    <LandingPage/>
+    <PricingPage/>
   );
 }
 
